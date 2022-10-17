@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'MTAmySite'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6DA9D087D3548EBB76D2256CD656CAA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43BB3E08CAA44122BC329029F32E621B }}
